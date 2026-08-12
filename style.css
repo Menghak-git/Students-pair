@@ -3,3 +3,11 @@ h1{
     text-align: center;
     border-radius: 10px;
 }
+h1:hover{
+    color: blue;
+    background-color: yellow;
+    text-decoration: underline;
+    transition: 2s;
+    border-radius: 50%;
+    
+}
