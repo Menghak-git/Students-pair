@@ -14,20 +14,11 @@ h1:hover{
     width: 200px;
     margin: auto;
 }
-
-
-
-
-
-
-
-
-
 table,tr,th,td{
     border: 1px solid black;
     border-collapse: collapse;
     padding: 20px 40px;
     text-align: center;
     background-color: pink;
+    margin: auto;
 }
->>>>>>> 83ebb348ee20f0ded5ac4b654b5c5279335551c2
