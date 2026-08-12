@@ -8,11 +8,10 @@ h1:hover{
     background-color: yellow;
     text-decoration: underline;
     transition: 2s;
-    border-radius: 50%;
-<<<<<<< HEAD
-    
-    
+    border-radius: 50%;  
 }
-=======
+.img{
+    width: 200px;
+    margin: auto;
 }
->>>>>>> 11878eb32d35c10eb2192c598904f6117019186b
+
